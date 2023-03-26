@@ -1,0 +1,15 @@
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\bin\Debug\net7.0\exercise_2.exe
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\bin\Debug\net7.0\exercise_2.deps.json
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\bin\Debug\net7.0\exercise_2.runtimeconfig.json
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\bin\Debug\net7.0\exercise_2.dll
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\bin\Debug\net7.0\exercise_2.pdb
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.csproj.AssemblyReference.cache
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.AssemblyInfoInputs.cache
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.AssemblyInfo.cs
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.dll
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\refint\exercise_2.dll
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.pdb
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\exercise_2.genruntimeconfig.cache
+C:\Users\Lesiuk Vasyl\source\repos\-SSWU_LesiukVasyl_NET_CAMP\Home_task_1\exercise_2\exercise_2\obj\Debug\net7.0\ref\exercise_2.dll
