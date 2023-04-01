@@ -1,7 +1,7 @@
 ﻿namespace exercise_1
 {
     internal class Program
-    {
+    {// Вітаю. Домовлялись мислити об'єктно зорієнтовано!!!!!!
         static void Main(string[] args)
         {
             int n = 3, m = 4;
@@ -18,7 +18,7 @@
             while (left <= right && top <= bottom)
             {
                 for (int i = top; i <= bottom; i++)
-                {
+                {// Наступні 2 стрічки можна об'єднати.
                     matrix[i, left] = value;
                     value++;
                 }
