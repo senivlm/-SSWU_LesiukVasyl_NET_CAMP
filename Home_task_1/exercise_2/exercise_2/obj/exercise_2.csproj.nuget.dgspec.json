@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lesiuk Vasyl\\Source\\Repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj": {}
+    "C:\\Users\\Lesiuk Vasyl\\source\\repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lesiuk Vasyl\\Source\\Repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj": {
+    "C:\\Users\\Lesiuk Vasyl\\source\\repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lesiuk Vasyl\\Source\\Repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj",
+        "projectUniqueName": "C:\\Users\\Lesiuk Vasyl\\source\\repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj",
         "projectName": "exercise_2",
-        "projectPath": "C:\\Users\\Lesiuk Vasyl\\Source\\Repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj",
+        "projectPath": "C:\\Users\\Lesiuk Vasyl\\source\\repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\exercise_2.csproj",
         "packagesPath": "C:\\Users\\Lesiuk Vasyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lesiuk Vasyl\\Source\\Repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\obj\\",
+        "outputPath": "C:\\Users\\Lesiuk Vasyl\\source\\repos\\-SSWU_LesiukVasyl_NET_CAMP\\Home_task_1\\exercise_2\\exercise_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lesiuk Vasyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
