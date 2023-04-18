@@ -26,6 +26,7 @@ namespace exersice_2
             int firstIndex = _text.IndexOf(substring);
             if (firstIndex == -1) return null;
             int secondIndex = _text.IndexOf(substring, firstIndex + substring.Length);
+            // Навіщо приведення до типу?
             return secondIndex != -1 ? secondIndex : (int?)null;
         }
 
@@ -71,6 +72,7 @@ namespace exersice_2
                     words[i] = replacement;
                 }
             }
+            // Загублено початкову конфігурацію пробільних символів.
             _text = string.Join(' ', words);
         }
     }
