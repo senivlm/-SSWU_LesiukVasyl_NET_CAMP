@@ -1,5 +1,5 @@
 ﻿namespace Home_Task_2
-{
+{// погано, що прив'язка до консолі. 
     class Simulator
     {
         private readonly WaterTower tower;
