@@ -1,7 +1,7 @@
 ﻿namespace exersice_2
 {
     internal class Program
-    {
+    {// Діаграма є не правильна. Користувач, вежа і насос входять у симулятор композиційно. У Вас на діаграмі вежа і насос не взаємодіють. Користувач не бере воду в вежі)
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
