@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Drawing;
 
 namespace exersice_1
-{
+{// треба було вибудовувати опуклу оболонку. ЇЇ периметр і буде оптимальним
     class Garden
     {
         private List<Tree> trees;
