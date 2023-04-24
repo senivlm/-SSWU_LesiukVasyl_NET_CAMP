@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace exersice_1
-{
+{// Вхідний текст мав бути колекцією стрічок і її не можна зливати в одну. Ви розв'язуєте алгоритмічно простішу задачу.
     public class SentenceCollection
     {
         private readonly List<string> _sentences = new List<string>();
