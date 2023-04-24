@@ -27,7 +27,7 @@ namespace exersice_3
         }
 
         public override string ToString()
-        {
+        {// виділені параметри форматування слід робити гнучкими для користувача. 
             return $"{Number,-5} {OwnerLastName,-15} {StartMeterReading,-10} {EndMeterReading,-10} {MeterReadingDate:dd.MM.yy}";
         }
     }
