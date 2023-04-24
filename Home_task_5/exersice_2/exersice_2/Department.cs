@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace exersice_2
-{
+{// у Вас не ієрархічна структура, на жаль.
     class Department
     {
         private string name;
