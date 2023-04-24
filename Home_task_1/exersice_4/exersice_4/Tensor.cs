@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace exersice_4
-{
+{// ідея правильна, але трішки не докінчена. ви не можете тензору присвоїти будь-який масив.
     public class Tensor
     {
         private readonly int[] _shape;
