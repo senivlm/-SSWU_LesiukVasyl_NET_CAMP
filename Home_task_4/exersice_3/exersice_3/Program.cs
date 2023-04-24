@@ -3,13 +3,14 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {//Не побачила копії екрана.
             string fileName = "electricity_data.txt";
 
             Electricity electricity = new Electricity();
             electricity.ReadDataFromFile(fileName);
 
             // Set the price per KW
+            // Цей параметр можна задавати в конфігурації
             electricity.PricePerKw = 0.15m;
 
             // Get the report
