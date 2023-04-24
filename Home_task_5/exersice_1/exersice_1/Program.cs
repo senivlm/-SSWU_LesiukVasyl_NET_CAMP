@@ -1,5 +1,5 @@
 ﻿namespace exersice_1
-{
+{//Vasyl 	Lesiuk 90	5	18	90	85	90	50	92,5 вітаю вас в 2 турі.
     public class Program
     {
         static void Main(string[] args)
