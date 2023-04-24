@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace exersice_3
-{
+{// тут добре тільки заповнення з вибиванням дірок. А алгоритмічно, на жаль, не правильно.
     public class Cube
     {
         private readonly bool[,,] cube;
