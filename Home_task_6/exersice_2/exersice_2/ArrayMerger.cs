@@ -17,7 +17,7 @@ namespace exersice_2
     }
 
     public IEnumerable<int> MergeAndSort()
-    {
+    {// Використання лишньої пам'яті і не врахування філософії yield
         List<int> result = new List<int>();
         foreach (var array in arrays)
         {
