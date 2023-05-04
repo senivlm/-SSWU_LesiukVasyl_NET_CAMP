@@ -40,7 +40,7 @@ namespace exersice_1
             while (row < size && col < size)
             {
                 yield return matrix[row, col];
-
+// не оптимально кожного елемента питати, чи він не останній, або перший.
                 if (directionDown)
                 {
                     if (row == size - 1)
