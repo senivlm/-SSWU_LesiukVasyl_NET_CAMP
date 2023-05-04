@@ -1,5 +1,5 @@
 ﻿namespace exersice_3
-{
+{// Сумарний бал 95
     internal class Program
     {
         static void Main()
