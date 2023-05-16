@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace exersice_1
-{
+{// Треба працювати над абстракцією!!! Залишайтесь для роз'яснень.
     public class TrafficController
-    {
+    {// Чому не масив?
         private TrafficLight northSouth;
         private TrafficLight southNorth;
         private TrafficLight eastWest;
@@ -34,7 +34,7 @@ namespace exersice_1
             Console.WriteLine($"Колір\t  {northSouth.Color}\t\t  {southNorth.Color}\t\t{eastWest.Color}\t  {westEast.Color}");
         }
         public void Run()
-        {
+        {// Цей вічний цикл як має перериватись? Що роблять тут визначені константи. Ваш клас не має гнучкості.
             while (true)
             {
                 northSouth.Start(10, 2, 10);
